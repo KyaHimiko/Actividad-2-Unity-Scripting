@@ -1,9 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
-  isLoaded: 1
-  isActive: 0
-  isSubScene: 0
-- path: Assets/amogus.unity
+- path: Assets/Scenes/Input & GetComponent.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -355,8 +355,10 @@
 "Assets/CapsuleMovement.cs"
 "Assets/CapsuleRotation.cs"
 "Assets/CapsuleScale.cs"
+"Assets/CharacterMovement.cs"
 "Assets/FPSmovement.cs"
 "Assets/Hello World.cs"
+"Assets/MouseLook.cs"
 "Assets/TankControl.cs"
 -langversion:9.0
 
